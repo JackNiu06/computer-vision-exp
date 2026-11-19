@@ -4,8 +4,6 @@
 
 ## 二、实验内容
 
-实验代码见 [exp5.ipynb](./exp5.ipynb)。在 Jupyter 中选择 `Python (cv)` 内核，按顺序运行数据准备、模型构建、训练与测试、特征图可视化单元。
-
 ### 1.导入必要库
 
 使用 PyTorch 构建和训练模型，使用 torchvision 加载 MNIST 和转换图像，使用 Matplotlib 绘制特征图。导入这些库前，将 Intel oneMKL 的线程层设置为顺序模式，具体原因见第四部分。
