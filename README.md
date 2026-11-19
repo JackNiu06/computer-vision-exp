@@ -7,3 +7,5 @@ https://github.com/JackNiu06/computer-vision-exp/blob/main/exp2/README.md
 https://github.com/JackNiu06/computer-vision-exp/blob/main/exp3/README.md
 ## 实验四：全连接神经网络
 https://github.com/JackNiu06/computer-vision-exp/blob/main/exp4/README.md
+## 实验五：CNN-卷积神经网络
+https://github.com/JackNiu06/computer-vision-exp/blob/main/exp5/README.md
